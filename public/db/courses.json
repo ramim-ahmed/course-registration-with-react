@@ -1,0 +1,52 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "img": "https://images.pexels.com/photos/18877432/pexels-photo-18877432/free-photo-of-close-up-of-woman-holding-a-film-camera-and-a-flower.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Introduction to C Programming",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 1500,
+      "credit": 10
+    },
+    {
+      "id": 2,
+      "img": "https://images.pexels.com/photos/18877432/pexels-photo-18877432/free-photo-of-close-up-of-woman-holding-a-film-camera-and-a-flower.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Introduction to Algorithms",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 2000,
+      "credit": 12
+    },
+    {
+      "id": 3,
+      "img": "https://images.pexels.com/photos/18877432/pexels-photo-18877432/free-photo-of-close-up-of-woman-holding-a-film-camera-and-a-flower.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Introduction to AWS",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 800,
+      "credit": 5
+    },
+    {
+      "id": 4,
+      "img": "https://images.pexels.com/photos/18877432/pexels-photo-18877432/free-photo-of-close-up-of-woman-holding-a-film-camera-and-a-flower.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Introduction to Javascript",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 700,
+      "credit": 8
+    },
+    {
+      "id": 5,
+      "img": "https://images.pexels.com/photos/18877432/pexels-photo-18877432/free-photo-of-close-up-of-woman-holding-a-film-camera-and-a-flower.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "learn DSA with python",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 1050,
+      "credit": 9
+    },
+    {
+      "id": 6,
+      "img": "https://images.pexels.com/photos/18877432/pexels-photo-18877432/free-photo-of-close-up-of-woman-holding-a-film-camera-and-a-flower.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "learn react core concepts",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 650,
+      "credit": 6
+    }
+  ]
+}
